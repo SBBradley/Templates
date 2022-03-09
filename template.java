@@ -12,7 +12,7 @@ newMethod();
 }
 
 //What does this method do?
-public void newMethod() {
-System.out.prinln("Hello from newMethod.");
+public static void newMethod() {
+System.out.println("hello from newMethod.");
 }
 }

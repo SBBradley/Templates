@@ -1,2 +1,2 @@
 # Templates
-Basic templates for new coding projects.
+Boilerplate templates for new coding projects.
